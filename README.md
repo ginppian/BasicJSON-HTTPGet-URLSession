@@ -74,7 +74,7 @@ extension ViewController {
 ```
 
 <p align="center">
-	<img src="img/img1.png" width="720px" height="450px">
+	<img src="imgs/img1.png" width="720px" height="450px">
 </p>
 
 ## Font
